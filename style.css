@@ -1,0 +1,85 @@
+.container{
+  border: ;
+  border-radius: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  
+}
+
+.tabs{
+  display: flex;
+  gap: 20px;
+  border-radius:15px;
+  border:;
+  padding: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.ftab{
+  border: solid;
+  cursor: pointer;
+  border-radius: 15px;
+  padding: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.stab{
+  border: solid;
+  cursor: pointer;
+  border-radius: 15px;
+  padding: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.ttab{
+  border: solid;
+  cursor: pointer;
+  border-radius: 15px;
+  padding: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.frtab{
+  border: solid;
+  cursor: pointer;
+  border-radius: 15px;
+  padding: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+
+.fpara{
+  font-family: Sans-Serif;
+  font-size: 20px;
+  border-radius: 15px;
+  line-gap-override: 150px;
+  padding: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.spara{
+  font-family: Sans-Serif;
+  font-size: 20px;
+  line-gap-override: 150px;
+  border-radius: 15px;
+  padding: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.tpara{
+  font-family: Sans-Serif;
+  font-size: 20px;
+  line-gap-override: 150px;
+  border-radius:15px;
+  padding: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.frpara{
+  font-family: Sans-Serif;
+  font-size: 20px;
+  line-gap-override: 150px;
+  border-radius: 15px;
+  padding: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
